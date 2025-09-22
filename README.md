@@ -3,12 +3,12 @@
 **Class Schedule**
 # Weekly Schedule
 
-| Time      | Monday           | Tuesday        | Wednesday             | Thursday            | Friday            | Saturday | Sunday |
-|-----------|--------          |---------       |-----------            |----------           |--------           |----------|--------|
-| 8–9 AM    |                  |                |                       |                     |                   |          |        |
-| 9–10 AM   |                  |                |                       |                     |                   |          |        |
-| 10–11 AM  |                  |                |                       |                     |                   |Class 7   |Class 7 |
-| 11–12 PM  | Group Meeting    | Class 7        |   Group meetup        |  Group metup        |Group meetup/break |Class 6.5 |Class 6.5 |
+| Time      | Monday                       | Tuesday                  | Wednesday                                   | Thursday                                | Friday            | Saturday          | Sunday          |
+|-----------|--------                      |---------                 |-----------                                  |----------                               |--------           |----------         |--------         |
+| 8–9 AM    |                              |                          |                                             |                                         |                   |                   |                 |
+| 9–10 AM   |                              |                          |                                             |                                         |                   |                   |                 |
+| 10–11 AM  |                              |                          |                                             |                                         |                   |Class 7 (2-4 EST)  |Class 7(2-4 EST) |
+| 11–12 PM  | Group Meeting (8-8:30 EST)   | Class 7 (8-10 EST)       |   Group meetup                              |  Group metup                            |Group meetup/break |Class 6.5 (8-10 EST)|Class 6.5 (8-10 EST)|
 
 
 
