@@ -7,8 +7,8 @@
 |-----------|--------                      |---------                 |-----------                                  |----------                               |--------           |----------         |--------         |
 | 8–9 AM    |                              |                          |                                             |                                         |                   |                   |                 |
 | 9–10 AM   |                              |                          |                                             |                                         |                   |                   |                 |
-| 10–11 AM  |                              |                          |                                             |                                         |                   |Class 7 (2-4 EST)  |Class 7   (2-4 EST) |
-| 11–12 PM  | Group Meeting (8-8:30 EST)   | Class 7 (8-10 EST)       |   Group meetup                              |  Group metup                            |Group meetup/break |Class 6.5 (8-10 EST) |Class 6.5 (8-10 EST)|
+| 10–11 AM  |                              |                          |                                             |                                         |                   |Class 7 (2-4 EST)   |Class 7   (2-4 EST) |
+| 11–12 PM  | Group Meeting (8-8:30 EST)   | Class 7 (8-10 EST)       |   Group meetup                              |  Group metup                            |Group meetup/break |Class 6.5 (8-10 EST) |Class 6.5 (8-10 EST)  |
 
 
 
