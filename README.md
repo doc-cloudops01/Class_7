@@ -2,7 +2,7 @@
 
 **Class Schedule**
 # Weekly Schedule
-welcome to KoTSL group. Here will host group projects, weekly homework posts, and Wiki docs for How-to's. 
+Welcome to KoTSL group. Here will host group projects, weekly homework posts, and Wiki docs for How-to's. 
 
 | Time      | Monday                       | Tuesday                  | Wednesday                                   | Thursday                                | Friday            | Saturday          | Sunday          |
 |-----------|--------                      |---------                 |-----------                                  |----------                               |--------           |----------         |--------         |
@@ -14,4 +14,4 @@ welcome to KoTSL group. Here will host group projects, weekly homework posts, an
 
 
 
-[Class Documentation](https://github.com/doc-cloudops01/Class_7/wiki)
+Link to group Wiki[Here](https://github.com/doc-cloudops01/Class_7/wiki)
