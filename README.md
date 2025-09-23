@@ -14,4 +14,4 @@ Welcome to KoTSL group. Here will host group projects, weekly homework posts, an
 
 
 
-Link to group Wiki[Here](https://github.com/doc-cloudops01/Class_7/wiki)
+Link to group Wiki [Here](https://github.com/doc-cloudops01/Class_7/wiki)
