@@ -2,6 +2,7 @@
 
 **Class Schedule**
 # Weekly Schedule
+welcome to KoTSL group. Here will host group projects, weekly homework posts, and Wiki docs for How-to's. 
 
 | Time      | Monday                       | Tuesday                  | Wednesday                                   | Thursday                                | Friday            | Saturday          | Sunday          |
 |-----------|--------                      |---------                 |-----------                                  |----------                               |--------           |----------         |--------         |
